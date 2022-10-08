@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/5e/b5/76/5eb5768d5cd19bdd128943d314ac2e64.jpg">
 <h1 align="center">Hi 👋 , I'm Ashish yadav</h1>
-<h3 align="center">A passionate frontend developer from India I enjoy to create things on the web. My interest in web development started in 2020 while i was exploring different things in programming language.From there i just stuck to Web Development . Fast forward today I am doing an internship and i have been learning and creating different things to explore more in Web Developent.</h3>
+<h3 align="center">A passionate frontend developer from India I enjoy to create things on the web. My interest in web development started in 2020 while i was exploring different things in programming language.From there i just stuck to Web Development.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish259&label=Profile%20views&color=0e75b6&style=flat" alt="ashish259" /> </p>
 
